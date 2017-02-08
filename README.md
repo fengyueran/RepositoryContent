@@ -30,6 +30,15 @@ the repository link of my repository
 ##OthersRepository
 **1.** [SDWebImage][6]
 
+**2.** [ZFPlayer][8]
+
+
+##iOSReferences
+**1.** [Awesome-ios][9]
+
+
+
+
 [1]:https://github.com/fengyueran/iOSNote/blob/master/SUMMARY.md
 [2]:https://github.com/fengyueran/UIScrollViewPaging
 [3]:https://github.com/fengyueran/UIScrollView
@@ -37,6 +46,8 @@ the repository link of my repository
 [5]:https://github.com/fengyueran/NineBlockBox
 [6]:https://github.com/fengyueran/SDWebImage
 [7]:https://github.com/fengyueran/WKWebView-XH
+[8]:https://github.com/fengyueran/ZFPlayer
+[9]:https://github.com/fengyueran/awesome-ios
 
 
 
