@@ -3,6 +3,7 @@
 the repository link of my repository
 
 ##MyRepository
+
 **1.** [iOSNote][1]
 
 **2.** [UIScrollViewPaging][2]
@@ -15,13 +16,9 @@ the repository link of my repository
 
 **6.** [WKWebView-XH][3]
 
+**7.** [MyRepository][10]
 
-
-
-
-
-
-
+**8.** [XHVideoPlayer][11]
 
 
 
@@ -31,6 +28,10 @@ the repository link of my repository
 **1.** [SDWebImage][6]
 
 **2.** [ZFPlayer][8]
+
+**3.** [MBProgressHUD][12]
+
+
 
 
 ##iOSReferences
@@ -48,7 +49,9 @@ the repository link of my repository
 [7]:https://github.com/fengyueran/WKWebView-XH
 [8]:https://github.com/fengyueran/ZFPlayer
 [9]:https://github.com/fengyueran/awesome-ios
-
+[10]:https://github.com/fengyueran/MyRepository
+[11]:https://github.com/fengyueran/XHVideoPlayer
+[12]:https://github.com/fengyueran/MBProgressHUD
 
 
 
