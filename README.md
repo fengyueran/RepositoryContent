@@ -46,17 +46,11 @@ the repository link of my repository
 
 **7.** [HJMURLDownloader][21]
 
+**8.** [MJExtension][24]
 
+**9.** [BlogDemo-CoreData][25]
 
-
-
-
-
-
-
-
-
-
+**10.** [VVDocumenter][27]
 
 
 
@@ -77,13 +71,13 @@ the repository link of my repository
 
 **4.** [cheat-sheet][20]
 
+**5.** [The-Art-Of-Programming-By-July][22]
 
+**6.** [iOSInterviewQuestions][23]
 
+**7.** [trip-to-iOS][26]
 
-
-
-
-
+**8.** [Markdown-grammar][28]
 
 
 
@@ -120,3 +114,10 @@ the repository link of my repository
 [19]:https://github.com/fengyueran/AFNetworking
 [20]:https://github.com/fengyueran/cheat-sheet
 [21]:https://github.com/fengyueran/HJMURLDownloader
+[22]:https://github.com/fengyueran/The-Art-Of-Programming-By-July
+[23]:https://github.com/fengyueran/iOSInterviewQuestions
+[24]:https://github.com/fengyueran/MJExtension
+[25]:https://github.com/fengyueran/BlogDemo-CoreData
+[26]:https://github.com/fengyueran/trip-to-iOS
+[27]:https://github.com/fengyueran/VVDocumenter-Xcode
+[28]:https://github.com/fengyueran/README
