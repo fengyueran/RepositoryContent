@@ -52,6 +52,20 @@ the repository link of my repository
 
 **10.** [VVDocumenter][27]
 
+**11.** [SGNavigationProgress][31]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,6 +92,58 @@ the repository link of my repository
 **7.** [trip-to-iOS][26]
 
 **8.** [Markdown-grammar][28]
+
+**9.** [iOS7-day-by-day][29]
+
+**10.** [iOS8-day-by-day][30]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -121,3 +187,6 @@ the repository link of my repository
 [26]:https://github.com/fengyueran/trip-to-iOS
 [27]:https://github.com/fengyueran/VVDocumenter-Xcode
 [28]:https://github.com/fengyueran/README
+[29]:https://github.com/fengyueran/iOS7-day-by-day
+[30]:https://github.com/fengyueran/iOS8-day-by-day
+[31]:https://github.com/fengyueran/SGNavigationProgress
