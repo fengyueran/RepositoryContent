@@ -20,6 +20,13 @@ the repository link of my repository
 
 **8.** [XHVideoPlayer][11]
 
+**9.** [Objc_MXH][16]
+
+**10.** [iOS_Design_patterns][18]
+
+
+
+
 
 
 
@@ -31,11 +38,26 @@ the repository link of my repository
 
 **3.** [MBProgressHUD][12]
 
+**4.** [WMPlayer][13]
+
+**5.** [ffmpeg-avplayer][13]
+
 
 
 
 ##iOSReferences
 **1.** [Awesome-ios][9]
+
+**2.** [Markdown][15]
+
+**3.** [GitCommonCommand][17]
+
+
+
+
+
+
+
 
 
 
@@ -52,6 +74,9 @@ the repository link of my repository
 [10]:https://github.com/fengyueran/MyRepository
 [11]:https://github.com/fengyueran/XHVideoPlayer
 [12]:https://github.com/fengyueran/MBProgressHUD
-
-
-
+[13]:https://github.com/fengyueran/WMPlayer
+[14]:https://github.com/fengyueran/ffmpeg-avplayer-for-ios-tvos
+[15]:https://github.com/fengyueran/Markdown
+[16]:https://github.com/fengyueran/Objc_MXH
+[17]:https://github.com/fengyueran/GitCommonCommand
+[18]:https://github.com/fengyueran/Ios_Design_patterns
