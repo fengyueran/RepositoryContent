@@ -42,6 +42,29 @@ the repository link of my repository
 
 **5.** [ffmpeg-avplayer][13]
 
+**6.** [AFNetworking][19]
+
+**7.** [HJMURLDownloader][21]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -51,6 +74,20 @@ the repository link of my repository
 **2.** [Markdown][15]
 
 **3.** [GitCommonCommand][17]
+
+**4.** [cheat-sheet][20]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,3 +117,6 @@ the repository link of my repository
 [16]:https://github.com/fengyueran/Objc_MXH
 [17]:https://github.com/fengyueran/GitCommonCommand
 [18]:https://github.com/fengyueran/Ios_Design_patterns
+[19]:https://github.com/fengyueran/AFNetworking
+[20]:https://github.com/fengyueran/cheat-sheet
+[21]:https://github.com/fengyueran/HJMURLDownloader
